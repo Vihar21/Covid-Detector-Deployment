@@ -1,0 +1,21 @@
+Hardware Requirements:
+GPU Support: For training deep learning models, a GPU is highly recommended due to its ability to significantly speed up computation.
+Adequate Memory: Sufficient RAM and GPU memory to handle large datasets and network architectures.
+
+Software Requirements:
+Python: Most deep learning projects use Python because of its extensive libraries and community support.
+Deep Learning Framework: TensorFlow or PyTorch are commonly used frameworks for building and training deep learning models.
+Libraries: Essential Python libraries including NumPy, Pandas (for data manipulation), Matplotlib or Seaborn (for data visualization), OpenCV (for image processing).
+Jupyter Notebook: For interactive development and documentation of the code.
+
+Data Requirements:
+Dataset: A dataset of labeled chest X-ray images, where labels indicate whether an image shows signs of COVID-19 infection.
+Data Preprocessing Tools: Tools for resizing, normalizing, and augmenting image data to improve model training.
+
+Development Environment:
+Docker: To containerize the application, ensuring it runs consistently across different computing environments.
+Version Control System: Like Git, to manage changes to the project codebase.
+
+Additional Tools:
+Integrated Development Environment (IDE): Such as PyCharm or VSCode for writing and debugging code.
+Model Training and Evaluation Tools: Metrics for evaluating model performance (accuracy, precision, recall, F1-score, etc.).
